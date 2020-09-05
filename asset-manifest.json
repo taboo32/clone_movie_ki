@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/taboo32/clone_movie_ki.git/static/css/main.452396ff.chunk.css",
-    "main.js": "/taboo32/clone_movie_ki.git/static/js/main.f921e121.chunk.js",
-    "main.js.map": "/taboo32/clone_movie_ki.git/static/js/main.f921e121.chunk.js.map",
-    "runtime-main.js": "/taboo32/clone_movie_ki.git/static/js/runtime-main.3e55ab1b.js",
-    "runtime-main.js.map": "/taboo32/clone_movie_ki.git/static/js/runtime-main.3e55ab1b.js.map",
-    "static/js/2.1ceb4c45.chunk.js": "/taboo32/clone_movie_ki.git/static/js/2.1ceb4c45.chunk.js",
-    "static/js/2.1ceb4c45.chunk.js.map": "/taboo32/clone_movie_ki.git/static/js/2.1ceb4c45.chunk.js.map",
-    "index.html": "/taboo32/clone_movie_ki.git/index.html",
-    "precache-manifest.e9a8d03edc8707455ce0aceca54d42c4.js": "/taboo32/clone_movie_ki.git/precache-manifest.e9a8d03edc8707455ce0aceca54d42c4.js",
-    "service-worker.js": "/taboo32/clone_movie_ki.git/service-worker.js",
-    "static/css/main.452396ff.chunk.css.map": "/taboo32/clone_movie_ki.git/static/css/main.452396ff.chunk.css.map",
-    "static/js/2.1ceb4c45.chunk.js.LICENSE.txt": "/taboo32/clone_movie_ki.git/static/js/2.1ceb4c45.chunk.js.LICENSE.txt"
+    "main.css": "/clone_movie_ki/static/css/main.452396ff.chunk.css",
+    "main.js": "/clone_movie_ki/static/js/main.f921e121.chunk.js",
+    "main.js.map": "/clone_movie_ki/static/js/main.f921e121.chunk.js.map",
+    "runtime-main.js": "/clone_movie_ki/static/js/runtime-main.ff4c076e.js",
+    "runtime-main.js.map": "/clone_movie_ki/static/js/runtime-main.ff4c076e.js.map",
+    "static/js/2.1ceb4c45.chunk.js": "/clone_movie_ki/static/js/2.1ceb4c45.chunk.js",
+    "static/js/2.1ceb4c45.chunk.js.map": "/clone_movie_ki/static/js/2.1ceb4c45.chunk.js.map",
+    "index.html": "/clone_movie_ki/index.html",
+    "precache-manifest.5595fde94ecb55921400a98a033612f5.js": "/clone_movie_ki/precache-manifest.5595fde94ecb55921400a98a033612f5.js",
+    "service-worker.js": "/clone_movie_ki/service-worker.js",
+    "static/css/main.452396ff.chunk.css.map": "/clone_movie_ki/static/css/main.452396ff.chunk.css.map",
+    "static/js/2.1ceb4c45.chunk.js.LICENSE.txt": "/clone_movie_ki/static/js/2.1ceb4c45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e55ab1b.js",
+    "static/js/runtime-main.ff4c076e.js",
     "static/js/2.1ceb4c45.chunk.js",
     "static/css/main.452396ff.chunk.css",
     "static/js/main.f921e121.chunk.js"
